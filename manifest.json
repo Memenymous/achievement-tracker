@@ -1,0 +1,10 @@
+{
+    "files": {
+        "index.js": "9a118655d159ff1623e777b97b01a3f7c81ab258b0268d25eaa33b672aa3869a",
+        "module.json": "18206a5d9588c23660e77767a72492f8c9a6edab0044cc4dc9a4d24f104989dc"
+    },
+    "defs": {
+        "S_DUNGEON_EVENT_MESSAGE": 2,
+        "S_UPDATE_ACHIEVEMENT_PROGRESS": 1
+    }
+}

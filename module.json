@@ -1,0 +1,11 @@
+{
+    "name": "achievement-tracker",
+    "author": "Memenymous",
+    "description": "Track your achievements",
+    "options": {
+        "reloadable": true
+    },
+    "disableAutoUpdate": false,
+    "servers": ["https://raw.githubusercontent.com/Memenymous/achievement-tracker/main/"],
+    "supportUrl": "https://github.com/Memenymous/achievement-tracker/issues/"
+}
